@@ -1,5 +1,5 @@
 # Risk Return Analysis
-Risk Return Analysis
+
 This repository contains the code for a jupyter notebook with data preparation, analysis and visualization for risk and return metrics. 
 We compare four financial portfolios to the S&P 500 and make conclusions about each portfolio's performance over the last few years.
 
